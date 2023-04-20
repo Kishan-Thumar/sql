@@ -39,7 +39,7 @@ WHERE user_id = (
 - One way of reading every row in a table and comparing values in each row against related data.
 - It is used whenever a subquery must return a different result or set of results for each candidate row considered by the main query. In other words, you can use a correlated subquery to answer a multipart question whose answer depends on the value in each row processed by the parent statement.
 
-***Examples Solved***: 001
+***Examples Solved***: [001](https://github.com/Kishan-Thumar/sql/blob/master/534_Game_Play_Analysis_III/myql_subquery.sql)
 
 ### Window Function
 
@@ -47,4 +47,4 @@ WHERE user_id = (
 
 Window Function Categories: (source-[Here](https://cdn.sanity.io/images/oaglaatp/production/e0d2b575fa404eec7c9bedcae9c3818261ffe1ab-1200x800.png?w=1200&h=800&auto=format))
 
-***Examples Solved***: 001
+***Examples Solved***: [001](https://github.com/Kishan-Thumar/sql/blob/master/534_Game_Play_Analysis_III/mysql_window_fn.sql)
