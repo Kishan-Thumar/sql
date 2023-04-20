@@ -47,7 +47,7 @@ WHERE user_id = (
 
 Window Function Categories: (source-[Here](https://cdn.sanity.io/images/oaglaatp/production/e0d2b575fa404eec7c9bedcae9c3818261ffe1ab-1200x800.png?w=1200&h=800&auto=format))
 
-***EXAMPLES SOLVED***: [001](https://github.com/Kishan-Thumar/sql/blob/master/534_Game_Play_Analysis_III/mysql_window_fn.sql)
+### ***EXAMPLES SOLVED***: [001](https://github.com/Kishan-Thumar/sql/blob/master/534_Game_Play_Analysis_III/mysql_window_fn.sql)
 
 ### Sub Queries Vs CTS
 
@@ -86,4 +86,4 @@ WITH RECURSIVE fib(f1, f2) AS (
 SELECT f1 FROM fib LIMIT 10;
 ```
 
-### EXAMPLES SOLVED: [002](https://github.com/Kishan-Thumar/sql/tree/master/512_Game_Play_Analysis_II)
+### ***EXAMPLES SOLVED***: [002](https://github.com/Kishan-Thumar/sql/tree/master/512_Game_Play_Analysis_II)
